@@ -1,0 +1,71 @@
+[{
+    "id": 1,
+    "name": "Bumi Manusia",
+    "author": "Pramoedya Ananta Toer",
+    "publish": "Lentera Dipantara",
+    "isBorrowed": true,
+    "created_at": "0001-01-01T00:00:00Z"
+}, {
+    "id": 2,
+    "name": "Laskar Pelangi",
+    "author": "Andrea Hirata",
+    "publish": "Bentang Pustaka",
+    "isBorrowed": false,
+    "created_at": "0001-01-01T00:00:00Z"
+}, {
+    "id": 3,
+    "name": "Cantik Itu Luka",
+    "author": "Eka Kurniawan",
+    "publish": "Gramedia Pustaka Utama",
+    "isBorrowed": false,
+    "created_at": "0001-01-01T00:00:00Z"
+}, {
+    "id": 4,
+    "name": "Negeri 5 Menara",
+    "author": "Ahmad Fuadi",
+    "publish": "Gramedia Pustaka Utama",
+    "isBorrowed": false,
+    "created_at": "0001-01-01T00:00:00Z"
+}, {
+    "id": 5,
+    "name": "Supernova: Ksatria, Puteri, dan Bintang Jatuh",
+    "author": "Dewi Lestari (Dee Lestari)",
+    "publish": "Bentang Pustaka",
+    "isBorrowed": false,
+    "created_at": "0001-01-01T00:00:00Z"
+}, {
+    "id": 6,
+    "name": "Dilan: Dia adalah Dilanku Tahun 1990",
+    "author": "Pidi Baiq",
+    "publish": "Pastel Books",
+    "isBorrowed": false,
+    "created_at": "0001-01-01T00:00:00Z"
+}, {
+    "id": 7,
+    "name": "Ayat-Ayat Cinta",
+    "author": "Habiburrahman El Shirazy",
+    "publish": "Republika",
+    "isBorrowed": false,
+    "created_at": "0001-01-01T00:00:00Z"
+}, {
+    "id": 8,
+    "name": "Perahu Kertas",
+    "author": "Dewi Lestari (Dee Lestari)",
+    "publish": "Bentang Pustaka",
+    "isBorrowed": false,
+    "created_at": "0001-01-01T00:00:00Z"
+}, {
+    "id": 9,
+    "name": "Ronggeng Dukuh Paruk",
+    "author": "Ahmad Tohari",
+    "publish": "Gramedia Pustaka Utama",
+    "isBorrowed": true,
+    "created_at": "0001-01-01T00:00:00Z"
+}, {
+    "id": 10,
+    "name": "Toto-Chan: Gadis Kecil di Jendela",
+    "author": "Tetsuko Kuroyanagi",
+    "publish": "Gramedia Pustaka Utama",
+    "isBorrowed": false,
+    "created_at": "0001-01-01T00:00:00Z"
+}]
